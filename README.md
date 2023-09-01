@@ -1,7 +1,7 @@
 # Hi, I'm Kashyap Kurmilla 👋
 
 **Connect with me:**
-- [LinkedIn](https://linkedin.com/in/kashyapkurmilla)
+- [LinkedIn](https://www.linkedin.com/in/kashyap-kurmilla)
 - [Instagram](https://instagram.com/kashyapkurmilla)
 - [LeetCode](https://www.leetcode.com/kashyapkurmilla)
 
