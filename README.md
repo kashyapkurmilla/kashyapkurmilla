@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapkurmilla&show_icons=true&theme=dracula&locale=en&layout=compact" alt="kashyapkurmilla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkurmilla&" alt="kashyapkurmilla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkurmilla&theme=dark" alt="kashyapkurmilla" /></p>
